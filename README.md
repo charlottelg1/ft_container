@@ -1,7 +1,6 @@
 # ft_container
 
-Implement the following containers and turn in the necessary <container>.hpp files with
-a Makefile:
+Implement the following containers and turn in the necessary <container>.hpp files with a Makefile:\n
 • vector
 You don’t have to do the vector<bool> specialization.
 • map
